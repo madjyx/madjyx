@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madjyx
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently doing React dev
+- 🌱 I’m currently doing React, Typescript, Angular coding
 - 💞️ I’m looking to collaborate on IT company
 - 📫 How to reach me ...
 
