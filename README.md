@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madjyx
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently doing React, Typescript, Angular.
+- 🌱 I’m currently doing React, Typescript, Blockchain.
 - Currently also trying to make Uniswap demo exchanger for cryptocurrency
 - 💞️ I’m looking to collaborate on IT company
 - 📫 How to reach me (zvonimir.madarac@gmail.com)
