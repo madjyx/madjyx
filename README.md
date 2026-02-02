@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madjyx
-- 👀 I’m interested in JavaScript, Python and Data science
-- 🌱 I’m currently doing Python and Data science with DevOps integration.
+- 👀 I’m interested in JavaScript, Python and Data science.
+- 🌱 I’m currently doing Python and Data science with DevOps integration and all data intergration with SSMS and Visual Studio 2026 and Power BI Analytics.
 - 💞️ I’m looking to collaborate on IT company
 - 📫 How to reach me (zvonimir.madarac@gmail.com)
 
